@@ -1,0 +1,70 @@
+# print("Numele meu:", "Erika")
+
+# print("Oras:", "Bucuresti")
+
+# print("Varsta:", "35")
+
+# print("Ocupatie:", "Manager de proiect")
+
+# print(1) 
+
+# print(1, 2, 3)
+
+
+# varsta = 35
+
+# print(varsta)
+
+
+# nume = "erika"
+
+# print(nume)
+# print(nume)
+
+# nume = "ioana"
+
+# print(nume)
+# print(nume)
+# print(nume)
+
+# x = "35"
+
+# print("Varsta mea este:", x )
+# print("I am", x, "years old")
+# print("M-am nascut in urma cu", x, "ani")
+
+# varsta = "x"
+
+# x = "100"
+
+# print("Varsta mea este:", x )
+# print("I am", x, "years old")
+# print("M-am nascut in urma cu", x, "ani")
+
+# varsta = 35
+
+# tip_varsta = type(varsta)
+
+# print(tip_varsta)
+
+# varsta = 35.5
+# tip_varsta = type(varsta)
+# print(tip_varsta)
+
+nume = "Erika"
+tip_varsta = type(nume)
+print(tip_varsta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
